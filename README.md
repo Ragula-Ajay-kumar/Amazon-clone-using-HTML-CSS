@@ -12,7 +12,7 @@ A responsive front-end clone of the Amazon homepage built using **HTML5** and **
 * Hero banner section
 * Responsive page layout
 * Amazon-style footer
-* Clean and organized user interface
+* Clean and organized UI
 
 ## Technologies Used
 
