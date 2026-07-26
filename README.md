@@ -1,4 +1,4 @@
-# Amazon Clone
+# Amazon Clone 
 
 A responsive front-end clone of the Amazon homepage built using **HTML5** and **CSS3**. This project recreates the visual design and layout of Amazon's website while focusing on responsive web design, structured HTML, and modern CSS styling.
 
